@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="tempspinner1">
+        <item name="Celcius">CELSIUS</item>
+        <item name="KELVIN">KELVIN</item>
+        <item name="FAHRENHEIT">FAHRENHEIT</item>
+
+    </string-array>
+    <string-array name="lengthspinner">
+        <item name="meter">Meter</item>
+        <item name="centemeter">Centimeter</item>
+        <item name="Meter">Kilometer</item>
+        <item name="Meter">Micrometer</item>
+    </string-array>
+    <string-array name="weightSpinner">
+        <item name="kilogram">Kilogram kg</item>
+        <item name="gram">Gram g</item>
+        <item name="Quintal">Quintal q</item>
+        <item name="Tonne">Tonne t</item>
+
+    </string-array>
+    <string-array name="areaspinner">
+        <item name="square meter">Square Meter</item>
+        <item name="square centimeter">Square Centimeter</item>
+        <item name="square kilometer">Square Kilometer</item>
+    </string-array>
+    <string-array name="timespinner">
+        <item name="second">Second</item>
+        <item name="minute">Minute</item>
+        <item name="Hour">Hour</item>
+    </string-array>
+    <string-array name="dataspinner">
+        <item name="GB">GB</item>
+        <item name="MB">MB</item>
+        <item name="KB">kB</item>
+    </string-array>
+    <string-array name="speedspinner">
+        <item name="Km/h">Km/h</item>
+        <item name="m/s">m/s</item>
+
+    </string-array>
+    <string-array name="Hieghtspinner">
+        <item name="Centimeter">Centimeter</item>
+        <item name="Foot">Foot</item>
+
+    </string-array>
+    <string-array name="volumespinner">
+        <item name="Liter">Liter</item>
+        <item name="Milliliter">Milliliter</item>
+
+    </string-array>
+    <string name="help">
+     THANK YOU FOR USING OUR APP-UNIT CONVERTOR
+    WE ARE SORRY TO HEAR THAT YOU HAVE SOME PROBLEM
+    YOU CAN CONTACT USE THROUG OUR EMAIL-abc123@gmail.com
+    OR YOU CAN DM ON TWEETER
+    __abc@12__
+</string>
+    <string name="about">
+        ABOUT THE APP
+        IN THIS APP YOU CAN  CONVERT AREA,TIME,VOLUME,LENGTH,HEIGHT,DATA,
+        TEMPERATURE,SPEED,WEIGHT
+        CLICK ON THE ICON AND THEN ENTER THE VALUE AND SELECT THE UNIT FROM WHICH YOU
+        WANT TO CONVERT TO THE UNIT YOU WANT TO CONVERT
+        THANK YOU FOR USING OUR APP:)
+
+    </string>
+</resources>

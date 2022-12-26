@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textviewstyle">
+        <item name="android:textSize">30sp</item>
+
+    </style>
+    <style name="edittextyle">
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="maintextviews"
+>
+        <item name="android:textSize">15dp</item>
+
+        <item name="android:textStyle">bold</item>
+        </style>
+
+</resources>
